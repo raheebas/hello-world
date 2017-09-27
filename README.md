@@ -1,2 +1,3 @@
 # hello-world
-First repo used for hello world!
+Doodle
+Learning to use github and other develppment tools.
